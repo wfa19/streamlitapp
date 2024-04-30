@@ -18,22 +18,41 @@ You can access MyStreamlitApp online by visiting the following link:
 4. Train and Tune Model: Once you've configured the pipeline settings, click the "Train Model" button to initiate model training and tuning using PyCaret.
 5. Download Trained Model: After the model training is complete, you can download the trained model for future use.
 
+
+
+## Example
+### Loading data
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/3839544d-59d9-4740-859a-1befc402f729)
+
+### select target
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/5d4d668f-12f6-4943-b85c-48dbd4612d3c)
+
+### configure setings
+
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/308e1a96-7913-4c30-b847-ad25636d6636)
+
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/d753e6d5-44b7-40e7-bbc8-90ccad87ccde)
+
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/09392be7-f554-44b7-8724-d8d1cd3c35f9)
+
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/1de6a9f0-1daa-4605-b65a-09157e8fe62b)
+
+## sample outputs
+### bargraph 
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/c5adb655-9c8c-4da7-b79d-2b792a86e5ce)
+
+### correlation plot
+
 ## Limitations
 
 One limitation of MyStreamlitApp is that every time new data is uploaded through the Streamlit app, the entire app refreshes, leading to the loss of the trained model. This limitation makes it challenging to perform in-app predictions on newly uploaded data. Future enhancements may involve implementing a solution to preserve the trained model state across data uploads, allowing for seamless in-app predictions.
-
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
 ## Feedback and Support
 
-If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to [contact us](mailto:your@email.com) or [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
+If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit an issue or [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
 
 ## Credits
 
-MyStreamlitApp was developed by [Your Name]. Special thanks to [contributors] for their contributions.
+MyStreamlitApp was developed by Wafa..
 
 ## License
 
