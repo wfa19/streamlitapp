@@ -1,4 +1,11 @@
 #!pip install git+https://github.com/wfa19/myMLpackage.git
+from myMLpackage.general_utility import *
+from myMLpackage.Data_preparations import *
+from myMLpackage.scaling_and_transformation import *
+from myMLpackage.feature_engineering import *
+from myMLpackage.feature_selection import *
+from myMLpackage.modelling import *
+from myMLpackage.prediction import *
 from myMLpackage.streamlit_wraparounds import *
 import shutil
 import tempfile
