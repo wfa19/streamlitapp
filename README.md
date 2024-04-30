@@ -52,7 +52,8 @@ You can access MyStreamlitApp online by visiting the following link:
 
 ## Limitations
 
-One limitation of MyStreamlitApp is that every time new data is uploaded through the Streamlit app, the entire app refreshes, leading to the loss of the trained model. This limitation makes it challenging to perform in-app predictions on newly uploaded data. Future enhancements may involve implementing a solution to preserve the trained model state across data uploads, allowing for seamless in-app predictions.
+One limitation of MyStreamlitApp is that every time new data is uploaded through the Streamlit app, the entire app refreshes, leading to the loss of the trained model. This limitation makes it challenging to perform in-app predictions on newly uploaded data. Future enhancements may involve implementing a solution to preserve the trained model state across data uploads, allowing for seamless in-app predictions. Another limitation is the virtual env provided by streamlit is small and may make the process slow. but running from the repo with codeblocks or computer works seamlessly.
+
 ## Feedback and Support
 
 If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit an issue or [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
