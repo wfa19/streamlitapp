@@ -8,7 +8,7 @@ MyStreamlitApp is a Streamlit-based web application designed to streamline the m
 
 You can access MyStreamlitApp online by visiting the following link:
 
-[MyStreamlitApp](https://appapp-huuj4texim3prymddwuzm5.streamlit.app/)
+[MyStreamlitApp](https://appapp-qnebc74f2xhhqkx2s6ypwr.streamlit.app/)
 
 ## Usage Instructions
 
