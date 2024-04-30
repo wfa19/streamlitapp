@@ -42,6 +42,13 @@ You can access MyStreamlitApp online by visiting the following link:
 ![image](https://github.com/wfa19/streamlitapp/assets/85408528/c5adb655-9c8c-4da7-b79d-2b792a86e5ce)
 
 ### correlation plot
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/c5959ac9-c1c8-49e4-91d3-e2b20f4c22ca)
+### model set up 
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/8fc63ffe-5a26-49e0-8783-75cf45fea1b6)
+
+## performances 
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/611c248a-8c2b-419b-ba28-7c028abb5b33)
+![image](https://github.com/wfa19/streamlitapp/assets/85408528/6d5c147b-86d6-4421-b89e-e780e034b316)
 
 ## Limitations
 
