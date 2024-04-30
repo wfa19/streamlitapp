@@ -1,3 +1,0 @@
-shutil
-tempfile
-myMLpackage @ git+https://github.com/wfa19/myMLpackage.git
